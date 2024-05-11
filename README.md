@@ -45,13 +45,12 @@ Obs.: Documentação da API em: https://ai.google.dev/gemini-api/docs/system-ins
 
 ## Loop do Chat
 
-O código implementa um loop que permite a conversação com o Jarvis. O loop funciona da seguinte maneira:
+O código implementa um loop que permite com que o Blind Helper descreva a imagem. O loop funciona da seguinte maneira:
 
-1. O usuário grava um áudio.
-2. O áudio gravado é enviado para o modelo Gemini.
+1. O usuário envia uma imagem.
+2. A imagem é enviado para o modelo Gemini.
 3. O modelo retorna uma resposta textual.
-4. A resposta textual é convertida em fala e reproduzida para o usuário.
-5. O loop continua até que o usuário diga "fim".
+4. O loop continua até que o usuário diga "fim".
 
 ## Executando o Código
 
