@@ -40,7 +40,7 @@ Obs.: Documentação da API em: https://ai.google.dev/gemini-api/docs/system-ins
 ## Configuração do Modelo
 
 * **`generation_config`:** Define o número de candidatos de resposta (1) e a temperatura (0.5).
-* **`safety_settings`:** Define o nível de bloqueio para BLOCK_LOW_AND_ABOVE (Block , ou seja, Bloqueia quando à uma probalidade de conteúdo não seguro independete se for baixo, médio, alto).
+* **`safety_settings`:** Define o nível de bloqueio para BLOCK_ONLY_HIGH (Block , ou seja, Bloqueia quando houver uma probalidade de conteúdo não seguro alto).
 * **`model`:** Inicializa o modelo Gemini-1.5-pro-latest com a configuração de geração e os ajustes de segurança.
 
 ## Loop do Chat
