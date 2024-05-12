@@ -68,6 +68,29 @@ A um exemplo de como executar o programa logo a baixo terá a imagem que foi uti
   <img alt="[Imagem de exemplo" src="https://github.com/rafaelnator/Blind_Helper/blob/main/Imagem-README/michael_jordan.png" heght="50px"/>
 </div>
 
+### Resposta
+Resposta:  A imagem mostra Michael Jordan, lendário jogador de basquete, em um close-up, em quadra, trajando o uniforme clássico branco e vermelho do Chicago Bulls, com o número 23 estampado em vermelho e preto. 
+
+**Michael Jordan:**
+
+* **Expressão:** Seu rosto está sério, com olhar fixo e determinado, transmitindo a intensidade e foco característicos do atleta. 
+* **Físico:** A pele negra e brilhante de suor destaca o esforço físico do jogo.  Seus braços fortes e definidos evidenciam a força e preparo físico. 
+* **Uniforme:** A camisa branca, com detalhes em vermelho e preto, está úmida de suor, mostrando o quão intenso é o jogo. 
+
+**Plano de fundo:**
+
+* **Multidão:** Ao fundo, vemos uma multidão borrada, composta por pessoas de diferentes etnias e idades, vestindo roupas variadas. A indefinição da multidão coloca o foco em Michael Jordan, destacando-o como o ponto central da imagem.
+* **Cores:** As cores vibrantes do uniforme de Jordan contrastam com o fundo desfocado em tons pastéis, criando um efeito visual que realça a figura do jogador. 
+
+**Enquadramento:**
+
+* **Close-up:** O enquadramento em close-up aproxima o espectador de Michael Jordan, permitindo observar seus detalhes faciais e a intensidade de sua expressão. 
+* **Ponto de vista:** A foto é tirada de um ponto de vista levemente inferior, conferindo uma aura de imponência e poder à figura de Jordan.
+
+**Impressões gerais:**
+
+A imagem transmite a aura de grandeza e determinação de Michael Jordan, capturando a essência do lendário jogador em um momento de concentração e foco durante um jogo. O contraste entre a figura nítida de Jordan e a multidão desfocada ao fundo realça sua importância e o coloca como protagonista absoluto da cena. A imagem é poderosa e inspiradora, evocando a paixão e a intensidade do esporte.
+
 ## Licença
 
 GNU General Public License v3.0
